@@ -28,6 +28,7 @@ public class CurrentAccount extends BankAccount{
         }
         else{
 
+            tradeLicenseId=this.tradeLicenseId;
 
         }
 
